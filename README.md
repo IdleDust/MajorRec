@@ -1,4 +1,4 @@
-# Stock-Portfolio-Suggestion-Engine
+# Major Recommendation System
 This project provides a stock portfolio suggestion engine for the user.
 
 ## dependencies
