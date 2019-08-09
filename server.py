@@ -4,6 +4,13 @@ from major.recommend import cal_user_input_rating, filter_result
 from major.major_info_preprocess import major_name_mapping, major_info_original
 from major.major_info_csv import major_info_dict, category_to_major
 
+
+def algorithm_init():
+    process_all_major_tf_idf()
+
+
+algorithm_init()
+
 app = Flask(__name__)
 
 
@@ -33,8 +40,6 @@ def get_result():
         return render_template('result.html', majors=majors)
 
 
-
-
 def get_all_major_info(res):
     majors = []
     for tmp in res:
@@ -52,10 +57,6 @@ def get_all_major_info(res):
         print('{0}, rating: {1}, category: {2}, income: {3}:\n{4}\n***********'
               .format(name, tmp[1], major_info_dict[tmp[0]]['category'], major_info_dict[tmp[0]]['income'], info))
     return majors
-
-
-def algorithm_init():
-    process_all_major_tf_idf()
 
 
 if __name__ == '__main__':
