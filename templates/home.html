@@ -2,13 +2,13 @@
 
      {% block body %}
 
-    <div class="container h-100 d-flex justify-content-center col-md-9">
-      <form method="post" action="/result">
+    <div class="container h-100 d-flex justify-content-center col-md-10" style="margin-top: 50px">
+      <form method="post" action="/result" style="width: 75%;">
         <p class="mb-0">Describe your advantages and expectations for the major </p>
-        <input type="text" name="description" required>
+        <input type="text" name="description" value="I like reading naval and like writing stories and articles." required style="width:  100%;">
 
         <p class="mb-0">Minimum Expected Annual Salary After College Graduation($)</p>
-        <input type="number" name="income" min="5000">
+        <input type="number" name="income" min="5000" placeholder="eg, 50000">
         <p class="mb-0 mt-2">Please select at most one preferred category(Optional)</p>
         <select class="custom-select" id="category" name="category">
         <option value="" selected>Choose...</option>
