@@ -1,0 +1,77 @@
+accounting,     accounting
+actuarial science,     actuarial science
+advertising and public relations,     advertising
+agricultural economics,     agriculture economics
+agriculture production and management,     agriculture
+animal sciences,     animal sciences
+anthropology and archeology,     anthropology
+applied mathematics,     applied mathematics
+architectural engineering,     architectural engineering
+architecture,     architectural engineering
+art and music education,     art education
+art history and criticism,     art history
+biochemical sciences,    biochemistry
+biological engineering,    bioengineering
+biology,    biology
+biomedical engineering,    biotechnology
+business economics,    business logistic
+business management and administration,     business administration and management
+chemical engineering,    chemical engineering
+chemistry,    chemistry
+civil engineering,    civil engineering
+cognitive science and biopsychology,
+computer engineering,     computer engineering
+computer science,     computer science
+geology and earth science,     earth sciences
+economics,     economics
+electrical engineering,     electrical engineering
+elementary education,     elementary and kindergarten education
+engineering technologies,     engineering science
+english language and literature,     english
+environmental science,     environmental sciences
+environmental engineering,     environmental systems engineering
+film video and photographic arts,     film and video
+finance,     finance
+food science,     food science
+general social sciences,     general science
+geography,     geography
+geosciences,     geosciences
+physical and health education teaching,     health and physical education
+health and medical administrative services,     health policy and administration
+history,     history
+human services and community organization,     human development and family studies
+family and consumer sciences,     individual and family studies
+industrial and manufacturing engineering,     industrial engineering
+information sciences,     information sciences and technology
+journalism,     journalism
+naval architecture and marine engineering,     landscape architecture
+nuclear engineering, nuclear engineering
+marketing and marketing research,     marketing
+mathematics,     mathematics
+mechanical engineering,     mechanical engineering
+mass media,     media studies
+atmospheric sciences and meteorology,     meteorology
+microbiology,     microbiology
+mining and mineral engineering,     mineral economics
+other foreign languages,     modern languages
+art and music education,     music education
+nuclear engineerin,     nuclear engineering
+nursing,     nursing
+nutrition sciences,     nutrition
+philosophy and religious studies,     philosophy
+physics,     physics
+physiology,     physiology
+political science and government,     political science
+psychology,     psychology
+advertising and public relations,     public relations
+physical fitness parks recreation and leisure,     recreation and parks
+philosophy and religious studies,     religious studies
+secondary teacher education,     secondary education
+social work,     social work
+sociology,     sociology
+special needs education,     special education
+communications,     speech communication
+statistics and decision science,     statistics
+studio arts,     studio art
+communication technologies,   telecommunications
+animal sciences,     wildlife and fisheries science

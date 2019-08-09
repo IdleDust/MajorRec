@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+     {% block body %}
+
+    <div class="container h-100 d-flex justify-content-center col-md-9">
+      <form method="post" action="/result">
+        <p class="mb-0">Describe your advantages and expectations for the major </p>
+        <input type="text" name="description" required>
+
+        <p class="mb-0">Minimum Expected Annual Salary After College Graduation($)</p>
+        <input type="number" name="income" min="5000">
+        <p class="mb-0 mt-2">Please select at most one preferred category(Optional)</p>
+        <select class="custom-select" id="category" name="category">
+        <option value="" selected>Choose...</option>
+          {%  if categories %}
+            {% for category in categories %}
+              <option value="{{ category }}">{{ category }}</option>
+            {% endfor %}
+          {% endif %}
+        </select>
+
+        <button type="submit" class="btn btn-primary mt-2">GET RECOMMENDED MAJORS</button>
+      </form>
+      </div>
+{% endblock %}
