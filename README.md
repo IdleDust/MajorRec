@@ -14,5 +14,6 @@ This project provides a college major recommendation service for students.
 2. Run the server by
 `python server.py`
 
-
+# Web Link
+[https://major-recommender.herokuapp.com/]
 
